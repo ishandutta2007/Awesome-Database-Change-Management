@@ -54,9 +54,9 @@ A **curated directory of database change management tools, database CI/CD platfo
 
 ### 🚀 Top Open-Source Migration Tools & Platforms
 
-Open-source tools dominate database change management. The table below lists top open-source projects sorted by GitHub stars:
+Open-source tools dominate database change management. The table below lists top open-source projects sorted by GitHub_Stars:
 
-| Repository Name | Description | License | Ecosystem / Stack | GitHub Stars |
+| Repository Name | Description | License | Ecosystem / Stack | GitHub_Stars |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Prisma Migrate](https://github.com/prisma/prisma)** | Declarative & versioned schema migration engine integrated with Prisma ORM. | Apache-2.0 | Node.js / TypeScript | [<img src="https://img.shields.io/github/stars/prisma/prisma?style=social&color=white" alt="Prisma Stars" />](https://github.com/prisma/prisma/stargazers) |
 | **[golang-migrate](https://github.com/golang-migrate/migrate)** | CLI and Go library for CLI-driven database migrations supporting 20+ drivers. | MIT | Go | [<img src="https://img.shields.io/github/stars/golang-migrate/migrate?style=social&color=white" alt="golang-migrate Stars" />](https://github.com/golang-migrate/migrate/stargazers) |
